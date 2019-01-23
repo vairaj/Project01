@@ -32,6 +32,8 @@ http://ps-2.kev009.com/tl/techlib/manuals/adoclib/libs/basetrf1/atof.htm
 https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/strtod.htm
 <br>
 https://www.toptip.ca/2010/03/convert-string-to-number-in-c.html
+<br>
+https://en.cppreference.com/w/c/string/byte/strtof
 
 
 

@@ -17,7 +17,7 @@ private:
 
 public:
 	//input value
-	void input(int x, double sugarLevels[14][100]);
+	void input(double x, double sugarLevels[14][100]);
 	//show daily summary so far
 	void day(double sugarLevels[14][100]);
 	//show weekly summary so far

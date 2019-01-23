@@ -4,12 +4,12 @@
 using namespace std;
 
 
-void BloodSugar::input(int x, double sugarLevels[14][100])
+void BloodSugar::input(double x, double sugarLevels[14][100])
 {
 	//add input to current day's array
 	dailyCount++;
 	weeklyCount++;
-	cout << x << " added to today's records " << endl;
+	cout << x << " added to today's records." << endl;
 }
 
 void BloodSugar::day(double sugarLevels[14][100])

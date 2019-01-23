@@ -19,6 +19,8 @@ https://sites.ualberta.ca/dept/chemeng/AIX-43/share/man/info/C/a_doc_lib/libs/ba
 https://www.sanfoundry.com/c-tutorials-string-conversion-functions-standard-library/
 <br>
 http://pubs.opengroup.org/onlinepubs/009695399/functions/atof.html
+<br>
+http://pubs.opengroup.org/onlinepubs/009695399/functions/strtod.html
 
 <h3>Other</h3>
 http://www.cplusplus.com/reference/istream/istream/get/

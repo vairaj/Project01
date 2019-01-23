@@ -17,6 +17,8 @@ http://www.cplusplus.com/reference/cstdlib/strtod/
 https://sites.ualberta.ca/dept/chemeng/AIX-43/share/man/info/C/a_doc_lib/libs/basetrf1/atof.htm
 <br>
 https://www.sanfoundry.com/c-tutorials-string-conversion-functions-standard-library/
+<br>
+http://pubs.opengroup.org/onlinepubs/009695399/functions/atof.html
 
 <h3>Other</h3>
 http://www.cplusplus.com/reference/istream/istream/get/

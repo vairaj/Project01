@@ -23,6 +23,8 @@ http://pubs.opengroup.org/onlinepubs/009695399/functions/atof.html
 http://pubs.opengroup.org/onlinepubs/009695399/functions/strtod.html
 <br>
 http://www2.phys.canterbury.ac.nz/dept/docs/manuals/unix/DEC_4.0e_Docs/HTML/MAN/MAN3/0493____.HTM
+<br>
+http://ps-2.kev009.com/tl/techlib/manuals/adoclib/libs/basetrf1/atof.htm
 
 <h3>Other</h3>
 http://www.cplusplus.com/reference/istream/istream/get/

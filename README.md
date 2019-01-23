@@ -28,6 +28,8 @@ http://pubs.opengroup.org/onlinepubs/009695399/functions/strtod.html
 http://www2.phys.canterbury.ac.nz/dept/docs/manuals/unix/DEC_4.0e_Docs/HTML/MAN/MAN3/0493____.HTM
 <br>
 http://ps-2.kev009.com/tl/techlib/manuals/adoclib/libs/basetrf1/atof.htm
+<br>
+https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/strtod.htm
 
 
 

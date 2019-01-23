@@ -16,4 +16,6 @@ http://www.cplusplus.com/reference/cstdlib/atof/
 <br>
 http://www.cplusplus.com/reference/cstdlib/strtod/
 <br>
+https://sites.ualberta.ca/dept/chemeng/AIX-43/share/man/info/C/a_doc_lib/libs/basetrf1/atof.htm
+<br>
 https://www.thoughtco.com/candand-handling-ints-and-floats-958408

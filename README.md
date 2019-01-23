@@ -5,6 +5,8 @@ https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/
 <br>
 https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm
 <br>
+https://www.tutorialspoint.com/cplusplus/cpp_multi_dimensional_arrays.htm
+<br>
 http://www.cplusplus.com/reference/istream/istream/get/
 <br>
 http://www.cplusplus.com/reference/cstring/strcmp/

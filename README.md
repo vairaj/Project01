@@ -8,3 +8,5 @@ https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm
 http://www.cplusplus.com/reference/istream/istream/get/
 <br>
 http://www.cplusplus.com/reference/cstring/strcmp/
+<br>
+http://www.cplusplus.com/reference/cstdlib/atof/

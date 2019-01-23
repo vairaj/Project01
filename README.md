@@ -30,6 +30,8 @@ http://www2.phys.canterbury.ac.nz/dept/docs/manuals/unix/DEC_4.0e_Docs/HTML/MAN/
 http://ps-2.kev009.com/tl/techlib/manuals/adoclib/libs/basetrf1/atof.htm
 <br>
 https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/strtod.htm
+<br>
+https://www.toptip.ca/2010/03/convert-string-to-number-in-c.html
 
 
 

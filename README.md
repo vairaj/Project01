@@ -21,6 +21,8 @@ https://www.sanfoundry.com/c-tutorials-string-conversion-functions-standard-libr
 http://pubs.opengroup.org/onlinepubs/009695399/functions/atof.html
 <br>
 http://pubs.opengroup.org/onlinepubs/009695399/functions/strtod.html
+<br>
+http://www2.phys.canterbury.ac.nz/dept/docs/manuals/unix/DEC_4.0e_Docs/HTML/MAN/MAN3/0493____.HTM
 
 <h3>Other</h3>
 http://www.cplusplus.com/reference/istream/istream/get/
